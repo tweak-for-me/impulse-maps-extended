@@ -1,0 +1,13 @@
+{
+  "id": "maps-extended",
+  "name": "Maps Extended",
+  "version": "0.1.0",
+  "api": 1,
+  "kind": "maps",
+  "module": "maps_extended.wasm",
+  "hosts": ["mapgenie.io", "tiles.mapgenie.io", "media.mapgenie.io", "cdn.mapgenie.io", "storage-cdn.mapgenie.io"],
+  "links": ["mapgenie.io"],
+  "locales": ["en"],
+  "refresh": 7,
+  "settings": []
+}

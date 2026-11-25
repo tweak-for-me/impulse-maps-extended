@@ -1,0 +1,20 @@
+[package]
+name = "maps_extended"
+version = "0.1.0"
+edition = "2024"
+publish = false
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+sdk = { git = "https://github.com/tweak-for-me/impulse", rev = "b390114bdaeeb0fd19b4d6efcd42151ca598732f" }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[profile.release]
+opt-level = "s"
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true

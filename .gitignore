@@ -1,0 +1,4 @@
+/target
+/dist
+# A provider's saved pages and data: never committed.
+/fixtures

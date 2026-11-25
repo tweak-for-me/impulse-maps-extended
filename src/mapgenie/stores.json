@@ -1,0 +1,849 @@
+{
+ "007-first-light": [
+  "steam:3768760",
+  "uwp:IOInteractiveAS.1629748E3969B_6h0y724g59e1w"
+ ],
+ "american-truck-simulator": [
+  "steam:270880"
+ ],
+ "arc-raiders": [
+  "steam:1808500",
+  "uwp:Embark.arc-raiders_kd876xf6dde24"
+ ],
+ "assassins-creed-2": [
+  "uplay:4"
+ ],
+ "assassins-creed-3": [
+  "origin:OFB-EAST:109545960",
+  "origin:OFB-EAST:57557",
+  "steam:208480"
+ ],
+ "assassins-creed-3-liberation": [
+  "steam:260210"
+ ],
+ "assassins-creed-black-flag-resynced": [
+  "steam:3751950",
+  "uplay:65043",
+  "uwp:Ubisoft.PCObsidian_ngz4m417e0mpw"
+ ],
+ "assassins-creed-brotherhood": [
+  "origin:OFB-EAST:109549492",
+  "steam:48190",
+  "uplay:26"
+ ],
+ "assassins-creed-mirage": [
+  "epic:645e8d556dc540e8b7c35d7cd0cc68c8",
+  "epic:9bcf5a4dc1d54cb6ab1a42f3a70c5cf4:a103a0e8decc43cf91419177864f5b75:645e8d556dc540e8b7c35d7cd0cc68c8",
+  "steam:3035570",
+  "uplay:6100",
+  "uwp:Ubisoft.PCAssassinsCreedMirage_ngz4m417e0mpw"
+ ],
+ "assassins-creed-odyssey": [
+  "epic:Clary",
+  "epic:clary:40f78806d35b40baaaa93b83f13daca9:Clary",
+  "origin:Origin.OFR.50.0003012",
+  "origin:Origin.OFR.50.0003013",
+  "origin:Origin.OFR.50.0003015",
+  "origin:Origin.OFR.50.0003017",
+  "steam:812140",
+  "uplay:5059"
+ ],
+ "assassins-creed-origins": [
+  "epic:Camellia",
+  "epic:camellia:07e451ddd65f44eba67eda2cc9b8c7c1:Camellia",
+  "origin:Origin.OFR.50.0003054",
+  "origin:Origin.OFR.50.0003055",
+  "origin:Origin.OFR.50.0003056",
+  "steam:582160",
+  "uplay:3539"
+ ],
+ "assassins-creed-revelations": [
+  "steam:201870",
+  "uplay:40"
+ ],
+ "assassins-creed-rogue": [
+  "epic:34f7e1e275924bb6a90074920f9c1696:33f1aac924ea4da5a952d2414552417f:Wolffish",
+  "epic:Wolffish",
+  "steam:311560"
+ ],
+ "assassins-creed-shadows": [
+  "steam:3159330",
+  "uplay:8006",
+  "uwp:Ubisoft.PCAssassinsCreedShadows_ngz4m417e0mpw"
+ ],
+ "assassins-creed-syndicate": [
+  "epic:Albacore",
+  "epic:c9be94273fe244c08032ca493ad87434:1a34c013d44e4d00b638dae75c8fed07:Albacore",
+  "origin:Origin.OFR.50.0001182",
+  "origin:Origin.OFR.50.0001245",
+  "steam:368500",
+  "uplay:1875"
+ ],
+ "assassins-creed-unity": [
+  "epic:72bdc702b4974024a69a5eb718a7a135:2c06960d672b45629f3e0681d967042a:Amberjack",
+  "epic:Amberjack",
+  "origin:Origin.OFR.50.0000634",
+  "steam:289650",
+  "uplay:720"
+ ],
+ "assassins-creed-valhalla": [
+  "epic:400347196e674de89c23cc2a7f2121db:8d1ca909b2964a79af2ccd939f714b78:965ccf8b2eba4f9381ef43183c08e205",
+  "epic:965ccf8b2eba4f9381ef43183c08e205",
+  "steam:2208920",
+  "uplay:13504"
+ ],
+ "atomfall": [
+  "steam:801800",
+  "uwp:Rebellion.Windscale_2vbwqmt31j4mr"
+ ],
+ "avatar-frontiers-of-pandora": [
+  "epic:dd1d81b5b64d4d3d831eee35116153c8",
+  "epic:eca39884bdf14f65af242a8e3ff5b2d9:b6abde299ccd4303b4e5ee86600dd086:dd1d81b5b64d4d3d831eee35116153c8",
+  "steam:2840770",
+  "uplay:4740",
+  "uwp:Ubisoft.PCAvatarFrontiersofPandora_ngz4m417e0mpw"
+ ],
+ "avowed": [
+  "steam:2457220",
+  "uwp:Microsoft.Avowed_8wekyb3d8bbwe"
+ ],
+ "baldurs-gate-3": [
+  "gog:1456460669",
+  "steam:1086940",
+  "uwp:LarianStudiosGamesLtd.baldurssgate3_551z37b1dechw"
+ ],
+ "batman-arkham-asylum": [
+  "epic:5f7c811695f14b8fa3a8e1ea35713d23:a3361123cbb5436ab8630caea6e1d39a:Godwit",
+  "epic:Godwit",
+  "gog:1482504285",
+  "steam:35140"
+ ],
+ "beast-of-reincarnation": [
+  "steam:2001760",
+  "uwp:Fictions.ProjectAibou_qj8vnfjar8dk2"
+ ],
+ "black-myth-wukong": [
+  "epic:0e548758b82a4be785f435cedf306130:a3a81029d0a947bfb81055b9eda2c1ff:f53c5471fd0e47619e72b6d21a527abe",
+  "epic:f53c5471fd0e47619e72b6d21a527abe",
+  "steam:2358720"
+ ],
+ "blasphemous-2": [
+  "epic:c2890856ddb844f1a7d552fc929838a7:d99aa0f183854533a7a5bad71b18558d:e7c0a262d0eb4d2cbc140c441be8cbac",
+  "epic:e7c0a262d0eb4d2cbc140c441be8cbac",
+  "gog:1747340100",
+  "steam:2114740"
+ ],
+ "borderlands-2": [
+  "epic:Dodo",
+  "epic:f4a7772a4da24870a3ea6dfb8aeac662:445a01ff01344692a69a092595849f03:Dodo",
+  "steam:49520"
+ ],
+ "borderlands-3": [
+  "epic:Catnip",
+  "epic:catnip:5cf86732e2744fec98a1c8a077d9f3a8:Catnip",
+  "steam:397540",
+  "uwp:2K-Gearbox.Borderlands3WindowsPC_5c2m1mad6jpnr"
+ ],
+ "borderlands-4": [
+  "epic:4e00072a641f4d839f220614dccd1c0a:6a55c9a14601411f83a409b5d00e027b:ea5f9a88243c48908d0205c245fddea0",
+  "epic:ea5f9a88243c48908d0205c245fddea0",
+  "steam:1285190"
+ ],
+ "bully": [
+  "steam:12200"
+ ],
+ "castlevania-belmonts-curse": [
+  "steam:4231820",
+  "uwp:KonamiDigitalEntertainmen.CastlevaniaBelmontsCurse_168atcksx2mfc"
+ ],
+ "clair-obscur-expedition-33": [
+  "epic:f18fc860e6b4419e89147983bf769723",
+  "epic:fd04af72ea0f437aad3a15acd9ed5508:867a67edd7b445899dd8f8060b48e0fd:f18fc860e6b4419e89147983bf769723",
+  "gog:2125022825",
+  "steam:1903340",
+  "uwp:KeplerInteractive.Expedition33_ymj30pw7xe604"
+ ],
+ "conan-exiles": [
+  "epic:8efabb9c553b4a43a7ec95d452307429",
+  "epic:a767a15fafc74c569ffa6ab759a7eae9",
+  "epic:conanexiles:58f6418842a842bfb0a01ef135ae464a:8efabb9c553b4a43a7ec95d452307429",
+  "epic:conanexiles:9506c92959b746f5b368510eefcc32ca:a767a15fafc74c569ffa6ab759a7eae9",
+  "steam:440900",
+  "uwp:FuncomOsloAS.ConanExiles_pkaskhy6cdq4g"
+ ],
+ "control-resonant": [
+  "gog:1627372090",
+  "steam:3669870",
+  "uwp:Remedy.CONTROLResonant_a0f1gph4eb81p"
+ ],
+ "crimson-desert": [
+  "steam:3321460",
+  "uwp:PearlAbyss.CrimsonDesert_bs8qf1ajnj9cw"
+ ],
+ "cyberpunk-2077": [
+  "epic:02855a2f4c044aa1a813b19f8c447fe1",
+  "epic:77f2b98e2cef40c8a7437518bf420e47:563d27afe4544a648a0c222d73dedd84:02855a2f4c044aa1a813b19f8c447fe1",
+  "epic:77f2b98e2cef40c8a7437518bf420e47:5beededaad9743df90e8f07d92df153f:Ginger",
+  "epic:Ginger",
+  "gog:1423049311",
+  "steam:1091500",
+  "uwp:CDPROJEKTSA.4d0e9834-20b1-4580-9bdc-4501ef2ffaac_0xkrdv0gjmk28"
+ ],
+ "days-gone": [
+  "epic:628aaf4b94794ea6815a6dc4d8a3de42",
+  "epic:9f4875c1b0cf4cf19b28e203fc7aff07:45aac344cbfe40a5acb856999117d5fe:628aaf4b94794ea6815a6dc4d8a3de42",
+  "gog:1127395101",
+  "steam:1259420"
+ ],
+ "dead-island-2": [
+  "epic:236c74b4cd2e4e3099cbe2ebdc9686fd:75a5bee8052f4e2498094b2faaea8c11:Crow",
+  "epic:Crow",
+  "steam:934700",
+  "uwp:DeepSilver.578840CD64788_hmv7qcest37me"
+ ],
+ "death-stranding-2": [
+  "steam:3280350"
+ ],
+ "diablo-4": [
+  "steam:2344520"
+ ],
+ "disney-dreamlight-valley": [
+  "epic:79f5f0500e2642088929746db8b4e1c0",
+  "epic:7e2ec8a47b8d41528eb6dd2efd2b1abc:aa42ca607d3842ef96cf1299d458eb5f:79f5f0500e2642088929746db8b4e1c0",
+  "steam:1401590",
+  "uwp:A278AB0D.DisneyDreamlightValley_h6adky7gbf63m"
+ ],
+ "divinity-original-sin-2": [
+  "gog:1584823040",
+  "steam:435150"
+ ],
+ "dragon-age-veilguard": [
+  "steam:1845910"
+ ],
+ "dragon-quest-1-and-2-remake": [
+  "steam:2893570",
+  "uwp:39EA002F.DQONETWO_n746a19ndrrjg"
+ ],
+ "dragon-quest-vii": [
+  "steam:2499860",
+  "uwp:39EA002F.DQ7_n746a19ndrrjg"
+ ],
+ "dragons-dogma-2": [
+  "steam:2054970"
+ ],
+ "dredge": [
+  "epic:65c25644a2e0444d8766967a008b1d69",
+  "epic:8b454b47f5544fc6829cf0fed42ebae0:eac6533129434f98a6b04a81cbcaf357:65c25644a2e0444d8766967a008b1d69",
+  "gog:1744110647",
+  "steam:1562430",
+  "uwp:Team17DigitalLimited.ProjectShoal_j5x4vj4y67jhc"
+ ],
+ "dune-awakening": [
+  "steam:1172710",
+  "uwp:FuncomOsloAS.ProjectSeabass_pkaskhy6cdq4g"
+ ],
+ "dying-light": [
+  "epic:04a54ed532ce4fbfbf8fd5833f60def0",
+  "epic:2c42520d342a46d7a6e0cfa77b4715de:5821c65a103144548f3b55e8ce011292:71816b992ef04030b1c58af6b9845fe5",
+  "epic:2c42520d342a46d7a6e0cfa77b4715de:9421139e63f34d6281c18698b54d1e63:04a54ed532ce4fbfbf8fd5833f60def0",
+  "epic:2c42520d342a46d7a6e0cfa77b4715de:c7475b5731fb483283651c9d67b86adb:f653266870894ee1acbb5250e3b04bd1",
+  "epic:71816b992ef04030b1c58af6b9845fe5",
+  "epic:f653266870894ee1acbb5250e3b04bd1",
+  "gog:1448452156",
+  "steam:239140"
+ ],
+ "dying-light-2": [
+  "epic:87b7846d2eba4bc49eead0854323aba8:e0641123486f4e3e8490a378cbb11c04:RedstartDummy",
+  "epic:87b7846d2eba4bc49eead0854323aba8:ec549727d7084801a2ff7f63eb0e5459:Redstart",
+  "epic:Redstart",
+  "epic:RedstartDummy",
+  "steam:534380"
+ ],
+ "elden-ring": [
+  "steam:1245620"
+ ],
+ "elden-ring-nightreign": [
+  "steam:2622380"
+ ],
+ "enshrouded": [
+  "steam:1203620"
+ ],
+ "escape-from-duckov": [
+  "epic:193b4a828e34492290723483331580ce",
+  "epic:a17543496ad14e79809aa99ca972d478:814e0c4f7dd941468c3a38280cad1fc3:193b4a828e34492290723483331580ce",
+  "steam:3167020"
+ ],
+ "euro-truck-simulator-2": [
+  "origin:OFB-EAST:55705",
+  "steam:227300"
+ ],
+ "expeditions-a-mudrunner-game": [
+  "epic:9eae4ea0f5144b91b0186876ed326bbb",
+  "epic:ee94837a81864970b189e1031dfcf6fa:4c1e19640aee4a8ba3d0f502de0b7653:9eae4ea0f5144b91b0186876ed326bbb",
+  "steam:2477340",
+  "uwp:FocusHomeInteractiveSA.SRExpedition-Windows_4hny5m903y3g0"
+ ],
+ "fallout-3": [
+  "steam:22300"
+ ],
+ "fallout-new-vegas": [
+  "epic:3428aaab2c674c98b3acb789dcfaa548:dabb52e328834da7bbe99691e374cb84:5daeb974a22a435988892319b3a4f476",
+  "epic:5daeb974a22a435988892319b3a4f476",
+  "gog:1454587428",
+  "steam:22380",
+  "uwp:BethesdaSoftworks.FalloutNewVegas_3275kfvn8vcwc"
+ ],
+ "far-cry-4": [
+  "epic:Tautog",
+  "epic:cf87285950ba492bbdc370b9d265ea36:b7c11670729e46f6ac2738e8871eb3f2:Tautog",
+  "origin:Origin.OFR.50.0000630",
+  "origin:Origin.OFR.50.0000632",
+  "steam:298110",
+  "uplay:420"
+ ],
+ "far-cry-5": [
+  "steam:552520",
+  "uplay:1803"
+ ],
+ "far-cry-6": [
+  "epic:4f26d568e05b43928aeb98b50923d1f5",
+  "epic:b4565296c22549e4830c13bc7506642d:023117ad4c1e4b72b8849b7c924baa98:4f26d568e05b43928aeb98b50923d1f5",
+  "steam:2369390",
+  "uplay:5266"
+ ],
+ "final-fantasy-resonance": [
+  "steam:3259780",
+  "uwp:39EA002F.FFE_n746a19ndrrjg"
+ ],
+ "final-fantasy-xvi": [
+  "steam:2515020",
+  "uwp:39EA002F.Hermia_n746a19ndrrjg"
+ ],
+ "fortnite": [
+  "epic:Fortnite",
+  "epic:fn:4fe75bbc5a674f4f9b356b5c90567da5:Fortnite",
+  "uwp:436609B6.FortniteClient_9ncxwbgmmv7m8"
+ ],
+ "forza-horizon-4": [
+  "steam:1293830",
+  "uwp:Microsoft.SunriseBaseGame_8wekyb3d8bbwe"
+ ],
+ "forza-horizon-5": [
+  "steam:1551360",
+  "uwp:Microsoft.624F8B84B80_8wekyb3d8bbwe"
+ ],
+ "forza-horizon-6": [
+  "steam:2483190",
+  "uwp:Microsoft.ForteBaseGame_8wekyb3d8bbwe"
+ ],
+ "ghost-of-tsushima": [
+  "epic:6e6aa039c73347b885803de65ac5d3db:2e4b96035a51432b9eec5c3970772580:cd231060e6744ffb97684767b07d2b77",
+  "epic:cd231060e6744ffb97684767b07d2b77",
+  "steam:2215430"
+ ],
+ "ghost-recon-wildlands": [
+  "epic:Hyacinth",
+  "epic:hyacinth:cf2d32a22cba4e059341be9fd49a4183:Hyacinth",
+  "origin:Origin.OFR.50.0001789",
+  "origin:Origin.OFR.50.0001799",
+  "origin:Origin.OFR.50.0001809",
+  "steam:460930",
+  "uplay:1771",
+  "uwp:Ubisoft.437841704CA75_ngz4m417e0mpw"
+ ],
+ "ghostwire-tokyo": [
+  "epic:007ff8f4e30845a687e66aa77eb3e965",
+  "epic:a93cd6111251461c953776a0c4ea4d80:d0083c0713b140709d92ac02b179cbf2:007ff8f4e30845a687e66aa77eb3e965",
+  "gog:1180670910",
+  "steam:1475810",
+  "uwp:BethesdaSoftworks.ProjectSnowfall_3275kfvn8vcwc"
+ ],
+ "goat-simulator-3": [
+  "epic:50bbaf85f4454b1c88786efeede5b302:82c9334d4cd54f4988da0049d8738d6b:69f916aead6e4947aa3587ea234268be",
+  "epic:69f916aead6e4947aa3587ea234268be",
+  "steam:850190",
+  "uwp:CoffeeStainStudios.GoatSimulator3PC_496a1srhmar9w"
+ ],
+ "god-of-war-2018": [
+  "epic:3ddd6a590da64e3686042d108968a6b2:89ac959bb33c4e9387fba4ef3ca2ffc3:91bfb663fe7a4b9698ba08bd80549b34",
+  "epic:91bfb663fe7a4b9698ba08bd80549b34",
+  "gog:1074905459",
+  "steam:1593500"
+ ],
+ "god-of-war-ragnarok": [
+  "epic:456afef39a4c4cbbb6b17e92201443d7",
+  "epic:862d80a2d1044d88b01104b3ebaed032:634aa3f4ee28452fa9a9a175561d0e67:456afef39a4c4cbbb6b17e92201443d7",
+  "steam:2322010"
+ ],
+ "gothic-1-remake": [
+  "gog:1537831577",
+  "steam:1297900"
+ ],
+ "grand-theft-auto-san-andreas": [
+  "steam:12120",
+  "steam:12250",
+  "uwp:RockstarGames.391518907FADE_3t068xe29zjvp",
+  "uwp:RockstarGames.GrandTheftAutoSanAndreas_3t068xe29zjvp"
+ ],
+ "grand-theft-auto-vice-city": [
+  "rockstar:gtavc",
+  "steam:12110"
+ ],
+ "green-hell": [
+  "steam:815370"
+ ],
+ "grounded": [
+  "steam:962130",
+  "uwp:Microsoft.Maine_8wekyb3d8bbwe"
+ ],
+ "grounded-2": [
+  "steam:2661300",
+  "uwp:Microsoft.OE-Augusta_8wekyb3d8bbwe"
+ ],
+ "halo-infinite": [
+  "steam:1240440",
+  "uwp:Microsoft.254428597CFE2_8wekyb3d8bbwe"
+ ],
+ "hello-kitty-island-adventure": [
+  "steam:2495100"
+ ],
+ "hitman": [
+  "epic:3c06b15a8a2845c0b725d4f952fe00aa:92cd8e3c23a6400986db14bef51caa51:Barbet",
+  "epic:Barbet",
+  "gog:1207658996",
+  "gog:1545448592",
+  "steam:236870",
+  "steam:382940"
+ ],
+ "hitman-2": [
+  "steam:863550"
+ ],
+ "hitman-3": [
+  "epic:Eider",
+  "epic:ed55aa5edc5941de92fd7f64de415793:7d9ce7dd6f2e4ee98a55bd50a9bb78e0:Eider",
+  "steam:1659040",
+  "uwp:IOInteractiveAS.PC-HITMAN3-BaseGame_6h0y724g59e1w"
+ ],
+ "hogwarts-legacy": [
+  "epic:e97659b501af4e3981d5430dad170911:864c7bc2c2394f7dbd1b534aa068ff56:fa4240e57a3c46b39f169041b7811293",
+  "epic:fa4240e57a3c46b39f169041b7811293",
+  "steam:990080",
+  "uwp:WarnerBros.Interactive.PHX_ktmk1xygcecda"
+ ],
+ "hollow-knight": [
+  "gog:1308320804",
+  "steam:367520",
+  "uwp:TeamCherry.15373CD61C66B_y4jvztpgccj42",
+  "uwp:TeamCherry.HollowKnightPC_y4jvztpgccj42"
+ ],
+ "hollow-knight-silksong": [
+  "gog:1558393671",
+  "steam:1030300",
+  "uwp:TeamCherry.HollowKnightSilksong_y4jvztpgccj42"
+ ],
+ "horizon-forbidden-west": [
+  "epic:24cc2629b0594bf29340f6acf9816af8:088246f5059a4af1ab848f7ce01ecc69:2efe99166b8847e9bcd80c571b05e1b6",
+  "epic:2efe99166b8847e9bcd80c571b05e1b6",
+  "steam:2420110"
+ ],
+ "horizon-zero-dawn": [
+  "epic:3328b08ac1c14540aa265a1a85c07839:dabdf6248ea741db932b70a137e8eae5:Grunion",
+  "epic:Grunion",
+  "gog:1209025141",
+  "gog:1811181314",
+  "steam:1151640",
+  "steam:2561580"
+ ],
+ "icarus": [
+  "steam:1149460"
+ ],
+ "immortals-fenyx-rising": [
+  "steam:2221920",
+  "uplay:5405"
+ ],
+ "indiana-jones-and-the-great-circle": [
+  "gog:1953447949",
+  "steam:2677660",
+  "uwp:BethesdaSoftworks.ProjectRelic_3275kfvn8vcwc"
+ ],
+ "just-cause-2": [
+  "steam:8190"
+ ],
+ "just-cause-3": [
+  "steam:225540"
+ ],
+ "just-cause-4": [
+  "epic:Kakopo",
+  "epic:ba8062bdcc1342c0b78743e3c6242575:11fa5d6106524a3fa600b111ac243f58:Kakopo",
+  "steam:517630",
+  "uwp:39C668CD.JustCause4-BaseGame_r7bfsmp40f67j"
+ ],
+ "kena-bridge-of-spirits": [
+  "epic:70b920b3d9b145d682ecaacae52fc4cb",
+  "epic:7c53d7dc86494d5abcdc974b0ef0a843:18c666261c3e4f528c0c2b06da1c4a9a:70b920b3d9b145d682ecaacae52fc4cb",
+  "gog:1640077647",
+  "steam:1954200"
+ ],
+ "kingdom-come-deliverance": [
+  "epic:Eel",
+  "epic:ca4058f18b0a4a9e9e2ccc28f7f33000:8f328dced20e41d29b6f1fceed8f2164:Eel",
+  "gog:1719198803",
+  "origin:Origin.OFR.50.0002968",
+  "origin:Origin.OFR.50.0003615",
+  "steam:379430",
+  "uwp:DeepSilver.KingdomComeDeliverance_hmv7qcest37me"
+ ],
+ "kingdom-come-deliverance-2": [
+  "epic:278984b84235407d922da634b9d7d247",
+  "epic:e5429798296d4f78b8090f243b00cf11:9a045c9990eb4f30a029b53bb77b369a:278984b84235407d922da634b9d7d247",
+  "gog:1248083010",
+  "steam:1771300",
+  "uwp:DeepSilver.77536C3FE941_hmv7qcest37me"
+ ],
+ "kingdom-hearts-3": [
+  "epic:0712176b5e3e49bfa8866c0ee1359f2d:e345fdb9186645a48d30c3f85a8951dc:fd711544a06543e0ab1b0808de334120",
+  "epic:fd711544a06543e0ab1b0808de334120",
+  "steam:2552450"
+ ],
+ "lego-batman-legacy-of-the-dark-knight": [
+  "steam:2215200"
+ ],
+ "like-a-dragon-infinite-wealth": [
+  "steam:2072450",
+  "uwp:SEGAofAmericaInc.ProjectElvis_s751p9cej88mt"
+ ],
+ "mafia": [
+  "gog:1595659240",
+  "steam:40990"
+ ],
+ "mafia-the-old-country": [
+  "steam:1941540"
+ ],
+ "maneater": [
+  "epic:Turtle",
+  "epic:turtle:d43a176b083c4f92867c2313c6326d26:Turtle",
+  "gog:1173089864",
+  "steam:629820",
+  "uwp:TripwireInteractiveLLC.Maneater_237dqjpew1r3m"
+ ],
+ "marathon": [
+  "steam:3065800"
+ ],
+ "marvels-spider-man": [
+  "epic:4bc43145bb8245a5b5cc9ea262ffbe0e:6f39a1e367f2441586f5ab1c170e456b:be23672deb69402781cd47cc2919caf4",
+  "epic:be23672deb69402781cd47cc2919caf4",
+  "steam:1817070"
+ ],
+ "marvels-spider-man-2": [
+  "epic:0c6db5941ac8420aabbd8510e94e7d9a",
+  "epic:b2818b59c0bb420e9647983dfd254931:685032f3d8c74de5bcf123558c8f6b16:0c6db5941ac8420aabbd8510e94e7d9a",
+  "steam:2651280"
+ ],
+ "mass-effect": [
+  "origin:OFB-EAST:55465",
+  "steam:17460"
+ ],
+ "metal-gear-solid-5-the-phantom-pain": [
+  "steam:287700"
+ ],
+ "mina-the-hollower": [
+  "gog:1413488655",
+  "steam:1875580"
+ ],
+ "mortal-shell-ii": [
+  "steam:2584270"
+ ],
+ "my-time-at-sandrock": [
+  "epic:674b8fb570594e5db2f986a4fddc4de9",
+  "epic:e65d8864e0e84d6eb7fe228b2041c15f:b3abfe047ff34a1eacc9d7a68ee93edb:674b8fb570594e5db2f986a4fddc4de9",
+  "steam:1084600",
+  "uwp:37951PMStudiosInc.MyTimeatSandrock_qvb4qp2szbchw"
+ ],
+ "oblivion": [
+  "steam:22330",
+  "uwp:BethesdaSoftworks.TESOblivion-PC_3275kfvn8vcwc"
+ ],
+ "onimusha-way-of-the-sword": [
+  "steam:2638890",
+  "uwp:F024294D.63383C66B8708_8fty0by30jkny"
+ ],
+ "ori-and-the-blind-forest": [
+  "steam:261570"
+ ],
+ "outriders": [
+  "epic:bea62ac5091841f8a43bd20c3c7edfd3",
+  "epic:c6e54ebd92da4ee8819c1c0956cebdc4:38aff1b839f346e0b565665a009943eb:bea62ac5091841f8a43bd20c3c7edfd3",
+  "steam:1435990",
+  "steam:680420",
+  "uwp:39C668CD.Madness-BaseGame_r7bfsmp40f67j"
+ ],
+ "palworld": [
+  "steam:1623730",
+  "uwp:PocketpairInc.Palworld_ad4psfrxyesvt"
+ ],
+ "phantom-blade-zero": [
+  "steam:4115450"
+ ],
+ "phasmophobia": [
+  "steam:739630"
+ ],
+ "pragmata": [
+  "steam:3357650"
+ ],
+ "prey-2017": [
+  "epic:52d88e9a6df248da913c8e99f1e4c526",
+  "epic:6ea398b9c2244250a9177c0b8a69b5cd:ebaf29e138a446d3a2d523668ab05ddc:52d88e9a6df248da913c8e99f1e4c526",
+  "gog:1158493447",
+  "steam:480490",
+  "uwp:BethesdaSoftworks.LiluDallas-Multipass_3275kfvn8vcwc"
+ ],
+ "prince-of-persia-the-lost-crown": [
+  "epic:1e5a766cf84b4417b5e0593404530865",
+  "epic:22600f09e936468c8ecfc22b5eac7d7c:34e23808223248d5bdc8297d08e7fa72:1e5a766cf84b4417b5e0593404530865",
+  "steam:2751000",
+  "uplay:6145"
+ ],
+ "ratchet-and-clank-rift-apart": [
+  "epic:046aeb7098b94ac3961dad6c5dbe68c0:8bfef67afa5b4602955563400f93f818:32c5bc05670d455fb601c8d97a35297c",
+  "epic:32c5bc05670d455fb601c8d97a35297c",
+  "steam:1895880"
+ ],
+ "red-dead-redemption": [
+  "steam:2668510",
+  "uwp:RockstarGamesInc.KalonPC_k2ss7vbb13xte"
+ ],
+ "red-faction-guerrilla": [
+  "gog:2029222893",
+  "steam:20500",
+  "steam:667720"
+ ],
+ "resident-evil-2-remake": [
+  "gog:1534123252",
+  "steam:883710",
+  "uwp:F024294D.GAMEResidentEvil2biohazard2_8fty0by30jkny"
+ ],
+ "resident-evil-4-remake": [
+  "steam:2050650"
+ ],
+ "resident-evil-5": [
+  "steam:21690"
+ ],
+ "resident-evil-7-biohazard": [
+  "uwp:F024294D.RESIDENTEVIL7biohazard_8fty0by30jkny"
+ ],
+ "resident-evil-requiem": [
+  "epic:cdf68ea2cdbd443ca0bd1de2d9cfea68:29e1328a1bfb439c847fec75856dc929:d9b9a31471634f69916e07cd5e5d2fc3",
+  "epic:d9b9a31471634f69916e07cd5e5d2fc3",
+  "steam:3764200"
+ ],
+ "resident-evil-village": [
+  "steam:1196590",
+  "uwp:F024294D.Village_8fty0by30jkny"
+ ],
+ "rise-of-the-ronin": [
+  "steam:1340990"
+ ],
+ "runescape-dragonwilds": [
+  "steam:1374490",
+  "uwp:JagexLimited.Dominion_srxstwq7wczqa"
+ ],
+ "sable": [
+  "epic:66a0893b7b9a42a695f0a387d64dfcc6:15956355c14a4cd19c6b64abfd6f7425:9b48cbb1a0cf4a73b87ccbf4cde04b26",
+  "epic:9b48cbb1a0cf4a73b87ccbf4cde04b26",
+  "gog:1928501328",
+  "steam:757310",
+  "uwp:RawFury.SableXbox_9s0pnehqffj7t"
+ ],
+ "sand-land": [
+  "steam:1979440"
+ ],
+ "satisfactory": [
+  "epic:CrabEA",
+  "epic:crab:b915dfe8dcf74770841c82a4162dc954:CrabEA",
+  "steam:526870"
+ ],
+ "silent-hill-f": [
+  "epic:0c17e87dad684dfc80f297b02db03991:4b7caabaef724da78f1ce32772ea1639:dc2af50022074452a20293a88da9940f",
+  "epic:dc2af50022074452a20293a88da9940f",
+  "gog:1901861030",
+  "steam:2947440",
+  "uwp:KonamiDigitalEntertainmen.SILENTHILLf_168atcksx2mfc"
+ ],
+ "silent-hill-townfall": [
+  "epic:2dda192f245e4b87b7b45195b61f4fec:3f75e56b79ae4ef69a733590346c5bc1:d0a72ab8e8c84252be486a820b684d2d",
+  "epic:d0a72ab8e8c84252be486a820b684d2d",
+  "gog:1777950599",
+  "steam:1636440"
+ ],
+ "skyrim": [
+  "epic:ac82db5035584c7f8a2c548d98c86b2c",
+  "epic:c8738a4d1ead40368eab9688b3c7d737:758ef61140a84027b80315f78bf8d223:ac82db5035584c7f8a2c548d98c86b2c",
+  "gog:1711230643",
+  "steam:489830",
+  "steam:72850",
+  "uwp:BethesdaSoftworks.SkyrimSE-PC_3275kfvn8vcwc"
+ ],
+ "slime-rancher": [
+  "epic:Corydalis",
+  "epic:corydalis:1e38b618d106430db94b474abbfecc16:Corydalis",
+  "gog:1459259227",
+  "steam:433340",
+  "uwp:MonomiPark.SlimeRancher_9ahw7gx0g86p2"
+ ],
+ "slime-rancher-2": [
+  "epic:45bfcd2e11c34ffeb6fcc79b18b66cf0",
+  "epic:4f09ede568514ca6ad487f9c22a66b81:1871c3438f034571b8ae48574dd6e35a:45bfcd2e11c34ffeb6fcc79b18b66cf0",
+  "steam:1657630",
+  "uwp:MonomiPark.SlimeRancher2_9ahw7gx0g86p2"
+ ],
+ "sniper-elite-3": [
+  "steam:238090"
+ ],
+ "sniper-elite-v2": [
+  "origin:OFB-EAST:50652",
+  "steam:63380"
+ ],
+ "sonic-frontiers": [
+  "epic:50809e4c39674f42b649fa127d6796dd:f31b705084194f53b3b703b2decb0d31:c5ca98fa240c4eb796835f97126df8e7",
+  "epic:c5ca98fa240c4eb796835f97126df8e7",
+  "steam:1237320"
+ ],
+ "sons-of-the-forest": [
+  "steam:1326470"
+ ],
+ "south-park-the-stick-of-truth": [
+  "epic:8f8bddb3ff464536984ce8e945cb5f8c:3232807b6dc746bcbc38b260e8afb01f:Alligator",
+  "epic:Alligator",
+  "steam:213670"
+ ],
+ "stalker-2-heart-of-chornobyl": [
+  "epic:602a0ef0aceb46cca62445439661d712:3854f76514eb4aadb8d1426563c7b279:c04ba25a0e674b1ab3ea79e50c24a722",
+  "epic:c04ba25a0e674b1ab3ea79e50c24a722",
+  "gog:1529799785",
+  "steam:1643320",
+  "uwp:GSCGameWorld.S.T.A.L.K.E.R.2HeartofChernobylXboxEd_6fr1t1rwfarwt"
+ ],
+ "star-wars-jedi-fallen-order": [
+  "origin:Origin.OFR.50.0003524",
+  "origin:Origin.OFR.50.0003529",
+  "origin:Origin.OFR.50.0003795",
+  "origin:Origin.OFR.50.0003798",
+  "origin:Origin.OFR.50.0003815",
+  "steam:1172380"
+ ],
+ "star-wars-jedi-survivor": [
+  "steam:1774580"
+ ],
+ "star-wars-outlaws": [
+  "steam:2842040",
+  "uplay:17903"
+ ],
+ "starfield": [
+  "steam:1716740",
+  "uwp:BethesdaSoftworks.ProjectGold_3275kfvn8vcwc"
+ ],
+ "stellar-blade": [
+  "epic:321685d747d24252b113786aecadd53e:c22b88be94c4494f992c81366f0583a1:4013d48a20c1403282fc9d1453ec8f5a",
+  "epic:4013d48a20c1403282fc9d1453ec8f5a",
+  "steam:3489700"
+ ],
+ "subnautica": [
+  "epic:Jaguar",
+  "epic:jaguar:3257e06c28764231acd93049f3774ed6:Jaguar",
+  "steam:264710",
+  "uwp:UnknownWorldsEntertainmen.GAMEPREVIEWSubnautica_bh1f6rvenfkm2"
+ ],
+ "subnautica-2": [
+  "steam:1962700",
+  "uwp:UnknownWorldsEntertainmen.Subnautica2_bh1f6rvenfkm2"
+ ],
+ "subnautica-below-zero": [
+  "epic:Foxglove",
+  "epic:foxglove:a5d79a34555b4d55ac4e09b4dde35897:Foxglove",
+  "steam:848450",
+  "uwp:UnknownWorldsEntertainmen.SubnauticaBelowZero_bh1f6rvenfkm2"
+ ],
+ "tainted-grail-the-fall-of-avalon": [
+  "gog:1887281589",
+  "steam:1466060",
+  "uwp:ARDigitalsp.zo.o.TaintedGrailTheFallofAvalon_h53sa8gawx63c"
+ ],
+ "tales-of-arise": [
+  "steam:740130",
+  "uwp:NAMCOBANDAIGamesInc.TalesofAriseWinBaseGame_gdy2aq6ez762w"
+ ],
+ "tarkov": [
+  "steam:3932890"
+ ],
+ "the-adventures-of-elliot": [
+  "steam:3483510",
+  "uwp:39EA002F.AOEMT_n746a19ndrrjg"
+ ],
+ "the-blood-of-dawnwalker": [
+  "gog:1889754300",
+  "steam:3751260",
+  "uwp:NAMCOBANDAIGamesInc.TheBloodofDawnwalker_gdy2aq6ez762w"
+ ],
+ "the-forest": [
+  "steam:242760"
+ ],
+ "the-outer-worlds": [
+  "epic:Rosemallow",
+  "epic:rosemallow:fa16dbd78e2147179dae12e04afa3d95:Rosemallow",
+  "gog:1242541569",
+  "steam:578650",
+  "uwp:PrivateDivision.TheOuterWorldsWindows10_hv3d7yfbgr2rp"
+ ],
+ "the-outer-worlds-2": [
+  "steam:1449110",
+  "uwp:Microsoft.OE-Arkansas_8wekyb3d8bbwe"
+ ],
+ "tiny-tinas-wonderlands": [
+  "epic:c37115918ccc4969a57b6b1bdc28af4a:4742cc98b91541499570c72f3825b893:eb6ddfb245f647e2bb6902f52f38a535",
+  "epic:eb6ddfb245f647e2bb6902f52f38a535",
+  "steam:1286680"
+ ],
+ "titan-quest-2": [
+  "steam:1154030"
+ ],
+ "tunic": [
+  "epic:b6faa05b8b594ec39944ff71dbdfdfc1:43778783bbbc4b56a3bc8f32d23fd1ee:eade4f48ab15402aa33eed935d32c2ab",
+  "epic:eade4f48ab15402aa33eed935d32c2ab",
+  "gog:1716751705",
+  "steam:553420",
+  "uwp:Finji.TUNIC_tys0ffscxatjj"
+ ],
+ "v-rising": [
+  "steam:1604030"
+ ],
+ "where-winds-meet": [
+  "steam:3564740",
+  "uwp:NetEaseGamesGlobal.13848790BE962_hfc15bhpepnfj"
+ ],
+ "wild-hearts": [
+  "steam:1938010"
+ ],
+ "witcher-3": [
+  "epic:14ee004dadc142faaaece5a6270fb628:c4aa05d55afd4254b2542ee713cd4971:725a22e15ed74735bb0d6a19f3cc82d0",
+  "epic:725a22e15ed74735bb0d6a19f3cc82d0",
+  "gog:1207664643",
+  "gog:1441355562",
+  "gog:1441620909",
+  "gog:1495134320",
+  "origin:Origin.OFR.50.0000743",
+  "origin:Origin.OFR.50.0001672",
+  "steam:292030",
+  "uwp:CDPROJEKTSA.Witcher3GOTY_0xkrdv0gjmk28"
+ ],
+ "yakuza-0": [
+  "gog:1103602225",
+  "steam:638970",
+  "uwp:SEGAofAmericaInc.Yakuza0PC_s751p9cej88mt"
+ ],
+ "yakuza-kiwami": [
+  "gog:1951443960",
+  "steam:3717330",
+  "steam:834530",
+  "uwp:SEGAofAmericaInc.YakuzaKiwamiPC_s751p9cej88mt"
+ ]
+}

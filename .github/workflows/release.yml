@@ -1,0 +1,24 @@
+name: release
+
+# A tag `v<version>`, the manifest's, releases the plugin's zip.
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      TAG: ${{ github.ref_name }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: rustup target add wasm32-unknown-unknown
+      - run: cargo test --quiet
+      - run: |
+          bash scripts/check-tag.sh "$TAG"
+          bash scripts/build.sh
+          gh release create "$TAG" dist/*.zip --title "$TAG" --generate-notes
