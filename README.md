@@ -26,4 +26,4 @@ bash scripts/build.sh             # dist/maps-extended/ and dist/maps-extended-<
 
 A new provider: a module in `src/` with the three calls, a row in `SITES`, its hosts in `manifest.json`.
 
-Release: raise `version` in `manifest.json` and `Cargo.toml`, commit, then `git tag v<version>` and push the tag. `.github/workflows/release.yml` refuses a tag that differs from the manifest, tests, builds and attaches the zip to a GitHub release.
+Release: raise `version` in `manifest.json` and `Cargo.toml`, add its section to `CHANGELOG.md`, commit, then `git tag v<version>` and push the tag. `.github/workflows/release.yml` refuses a tag that differs from the manifest or has no changelog section, tests, builds and publishes the zip with that section as the release notes.

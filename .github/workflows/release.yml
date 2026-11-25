@@ -1,6 +1,6 @@
 name: release
 
-# A tag `v<version>`, the manifest's, releases the plugin's zip.
+# A tag `v<version>`, the manifest's, releases the plugin's zip with its CHANGELOG.md section as the notes.
 on:
   push:
     tags: ["v*"]
@@ -16,9 +16,9 @@ jobs:
       GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
+      - run: bash scripts/release-notes.sh "$TAG" > release-notes.md
       - run: rustup target add wasm32-unknown-unknown
       - run: cargo test --quiet
       - run: |
-          bash scripts/check-tag.sh "$TAG"
           bash scripts/build.sh
-          gh release create "$TAG" dist/*.zip --title "$TAG" --generate-notes
+          gh release create "$TAG" dist/*.zip --title "$TAG" --notes-file release-notes.md
